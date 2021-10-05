@@ -4,3 +4,10 @@
 
 layout: home
 ---
+
+# Blog de s4dbrd
+### Estudiante de 2º de ASIR
+* CPHE
+* eJPT
+* OSCP (?)
+--- 
