@@ -1,5 +1,6 @@
 ---
 title: "Administración de Sistemas Operativos"
+layout: default
 ---
 
 Este módulo profesional contiene la formación necesaria para desempeñar las tareas de administración de sistemas operativos.

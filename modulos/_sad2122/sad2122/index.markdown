@@ -1,5 +1,6 @@
 ---
 title: "Seguridad y Alta Disponibilidad"
+layout: default
 ---
 
 Para obtener una shell completamente interactiva (Full interactive TTY) tendremos que hacer lo siguiente:
