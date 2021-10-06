@@ -9,7 +9,7 @@ layout: default
 
 ## Estudiante del grado de Administración de Sistemas Informáticos (ASIR)
 
-## Future Pentester
+## Future Pentester y Administrador de Sistemas
 
 * [Seguridad y alta disponibilidad](sad2122)
 * [Administración de sistemas operativos](aso2122)
