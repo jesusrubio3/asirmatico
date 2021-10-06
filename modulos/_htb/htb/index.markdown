@@ -7,4 +7,4 @@ HackTheBox es una plataforma donde los pentesters pueden practicar en máquinas 
 
 Dejo a continuación el enlace a mi perfil de la plataforma:
 
-* [s4dbrd](https://app.hackthebox.eu/profile/424558)
+* [s4dbrd](https://app.hackthebox.eu/profile/424558){:target="_blank"}
