@@ -53,3 +53,15 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+collections:
+        sad2122:
+                output: true
+                permalink: /:path
+        aso2122:
+                output: true
+                permalink: /:path
+        htb:
+                output: true
+                permalink: /:path
+
+collections_dir: modulos
