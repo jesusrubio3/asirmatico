@@ -16,4 +16,4 @@ layout: default
 * [HackTheBox](htb)
 
 ## Tarea Pull Request
-Esta parte ha sido añadida por Jesús Rubio Martín para la tarea de implantación web
+Esta parte ha sido añadida por Jesús Rubio Martín para la tarea de implantación web.
